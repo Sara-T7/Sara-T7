@@ -1,4 +1,4 @@
-# Hello, am Sara 👋
+# Hello👋, am Sara
 
 Software Engineering Student  
 Currently learning Web Development  
