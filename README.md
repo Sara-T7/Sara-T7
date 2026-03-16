@@ -20,7 +20,10 @@
 
 ## 🛠 Skills
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Sara-T7/Sara-T7-snake/blob/output/github-contribution-grid-snake.svg)
