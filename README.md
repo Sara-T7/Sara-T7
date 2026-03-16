@@ -1,6 +1,5 @@
 # Hello👋, am Sara
 
-# Hi 👋 I'm Sara Tadesse
 
 🎓 Software Engineering Student  
 🏫 Debre Berhan University  
